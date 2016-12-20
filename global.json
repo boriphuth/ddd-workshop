@@ -1,0 +1,10 @@
+﻿{
+  "projects": [
+    "src",
+    "ATM.Domain",
+    "ATM.Infrastructure.Common.Domain"
+  ],
+  "sdk": {
+    "version": "1.0.0-preview2-003131"
+  }
+}
